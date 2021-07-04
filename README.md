@@ -18,10 +18,13 @@ O levelUP dessa semana consiste em criar um sistema de login!
   <img src="screenshots/splash.jpg" width="250" />
   <img src="screenshots/login.jpg" width="250" /> 
   <img src="screenshots/home.jpg" width="250" />
-  <h2>Ou</h2>
+</p>
+<p float="left">
   <img src="screenshots/login.jpg" width="250" />
   <img src="screenshots/forgot_password.jpg" width="250" />
-  <img src="screenshots/forgot_password_loading.jpg" width="250" /> 
+  <img src="screenshots/forgot_password_loading.jpg" width="250" /> s
+</p>
+<p float="left">
   <img src="screenshots/recover_password.jpg" width="250" />
   <img src="screenshots/recover_password_loading.jpg" width="250" /> 
   <img src="screenshots/login.jpg" width="250" />
