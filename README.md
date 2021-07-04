@@ -22,7 +22,6 @@ O levelUP dessa semana consiste em criar um sistema de login!
   <img src="screenshots/login.jpg" width="250" />
   <img src="screenshots/forgot_password.jpg" width="250" />
   <img src="screenshots/forgot_password_loading.jpg" width="250" /> 
-  <br>
   <img src="screenshots/recover_password.jpg" width="250" />
   <img src="screenshots/recover_password_loading.jpg" width="250" /> 
   <img src="screenshots/login.jpg" width="250" />
